@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chí Nguyên (Admin)",
+    "username": "admin",
+    "password": "123",
+    "role": "admin"
+  },
+  {
+    "name": "Phạm Chí Nguyên",
+    "username": "nguyen",
+    "password": "123",
+    "role": "user"
+  },
+  {
+    "name": "khiem",
+    "username": "khiem",
+    "password": "1234",
+    "role": "user"
+  }
+]
